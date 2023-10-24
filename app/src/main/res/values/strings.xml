@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="character">Character</string>
+    <string name="filter_icon_description">Filter Icon</string>
+    <string name="location">Location</string>
+    <string name="Episode">Episode</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Clear</string>
+    <string name="name">Name</string>
+    <string name="give_a_name">Give a name</string>
+    <string name="species">Species</string>
+    <string name="select_one">Select one</string>
+    <string name="status">Status</string>
+    <string name="alive">Alive</string>
+    <string name="dead">Dead</string>
+    <string name="unknown">Unknown</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="genderless">Genderless</string>
+    <string name="gender">Gender</string>
+    <string name="apply">Apply</string>
+    <string name="character_detail_back_btn_desc">Back to character list</string>
+    <string name="informations">Informations</string>
+    <string name="origin">Origin</string>
+    <string name="type">Type</string>
+    <string name="episodes">Episodes</string>
+    <string name="characters">Characters</string>
+    <string name="retry">Retry</string>
+    <string name="no_character_found">No character found</string>
+    <string name="favorite">Favorite</string>
+
+    // Dialog
+    <string name="dialog_question_add_character_favorite">Do you want to add character of the %s in the your favorites?</string>
+    <string name="dialog_question_remove_character_favorite">Do you want to remove character of the %s in the your favorites?</string>
+    <string name="dialog_header_add_favorite">Add Favorite List</string>
+    <string name="dialog_header_remove_favorite">Remove Favorite List</string>
+
+    // Toast Message
+    <string name="toast_message_error">The operation failed, try again later</string>
+    <string name="toast_message_success_added">Added to Favorite List</string>
+    <string name="toast_message_success">Successfully completed</string>
+    <string name="toast_message_success_remove">Removed from Favorite List</string>
+    <string name="list_type">List Type</string>
+    <string name="swipe_delete">Delete</string>
+
+
+</resources>

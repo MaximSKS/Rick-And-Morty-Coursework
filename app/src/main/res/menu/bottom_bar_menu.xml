@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/characterListFragment"
+        android:icon="@drawable/character_selector"
+        android:title="@string/character"
+        />
+    <item
+        android:id="@+id/locationListFragment"
+        android:icon="@drawable/location_selector"
+        android:title="@string/location" />
+    <item
+        android:id="@+id/episodeListFragment"
+        android:icon="@drawable/episode_selector"
+        android:title="@string/Episode" />
+
+    <item
+        android:id="@+id/favoriteListFragment"
+        android:icon="@drawable/favorite_icon_selector"
+        android:title="@string/favorite"/>
+
+</menu>
